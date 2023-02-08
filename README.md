@@ -1,6 +1,8 @@
 # Workshop Studio
 
-A blank Sanity Studio project with all versions of Sanity dependencies set to "*". Also sets `unstable_noAuthBoundary: true` in `sanity.config.ts` to allow guest access.
+A blank Sanity Studio project with all Sanity dependencies set to `"*"` to install their latest versions. 
+
+It also has `unstable_noAuthBoundary: true` in `sanity.config.ts` to allow guest access.
 
 ## Sanity Clean Content Studio
 
